@@ -7,40 +7,39 @@ I'm currently studying **Technical Informatics at Hochschule Mannheim, Germany**
 I'm interested in understanding how software interacts with hardware, how computer systems work at a low level, and how secure software is developed.
 
 ---
-
-## 🛠️ Technical Interests
+## 🔧 Technical Interests
 
 - Embedded Software Development
 - C Programming
 - Low-Level Programming
-- Linux and System Programming
+- Linux System Programming
 - Computer Architecture
 - Cybersecurity and Vulnerability Research
 
 ## 📚 Currently Learning
 
-- C Programming
+- C Programming Fundamentals
+- Variables, Pointers and Memory Management
 - Digital Electronics
 - Electrical Engineering
 - Mathematics and Physics
 
 ## 💻 Projects
 
-I'm currently building my practical programming portfolio.
+Currently developing my programming skills through independent C projects.
 
-My focus is on:
-- C programming fundamentals
-- Memory management and pointers
-- Embedded systems and microcontrollers
-- Hardware-oriented software development
+My planned project areas include:
 
-More projects coming soon!
+- C Programming and Memory Management
+- Low-Level Programming
+- Embedded Systems Simulation
+- System Programming
+
+Hardware-based projects are planned for a later stage.
 
 ## 🎯 My Goals
 
-My goal is to develop strong practical skills in Embedded Software Development and Low-Level Programming, while gradually exploring the field of Cybersecurity and Vulnerability Research.
-
-I believe in learning by building, experimenting, documenting and understanding how things work under the hood.
+My goal is to develop practical skills in Embedded Software Development and Low-Level Programming, while gradually exploring Cybersecurity and Vulnerability Research.
 
 ---
 
